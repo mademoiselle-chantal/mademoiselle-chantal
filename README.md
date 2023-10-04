@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chantal
-- 🌱 I’m currently learning JS and React
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any project that involves Javascript or React
 
 <!---
