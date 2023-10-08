@@ -3,15 +3,11 @@
 * 🚀 Self-taught Developer with a passion for crafting web experiences.
   
 * 📚 Foundational skills in:
-      * 🌐 HTML
-  
-      * 🎨 CSS
-  
-      * 🚀 JavaScript
-  
-      * ⚛️  React
-  
-      * 🐍 Python
+      🌐 HTML
+      🎨 CSS
+      🚀 JavaScript
+      ⚛️  React
+      🐍 Python
 
 * 👍 I thrive on turning ideas into digital reality, one line of code at a time.
 
