@@ -1,6 +1,6 @@
 * 👋 Call me Mademoiselle Chantal.
   
-* 🚀 Self-taught Developer with a passion for crafting web experiences.
+* 🚀 Software Developer.
   
 * 📚 Foundational skills in:
       🌐 HTML
