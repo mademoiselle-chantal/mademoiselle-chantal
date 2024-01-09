@@ -1,15 +1,6 @@
 * 👋 Call me Mademoiselle Chantal.
   
 * 🚀 Software Developer.
-  
-* 📚 Foundational skills in:
-      🌐 HTML
-      🎨 CSS
-      🚀 JavaScript
-      ⚛️  React
-      🐍 Python
-
-* 👍 I thrive on turning ideas into digital reality, one line of code at a time.
 
 
 
